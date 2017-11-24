@@ -1,0 +1,1 @@
+/Users/mohit/dotfiles/vim/ftplugin/gitcommit.vim
